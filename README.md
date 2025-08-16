@@ -1,6 +1,6 @@
 <!-- header from https://github.com/kyechan99/capsule-render -->
 
-![header](https://capsule-render.vercel.app/api?type=speech&&color=0:442A9B,100:E04AC0&height=300&section=header&text=Hi%20everyone!%20My%20name%20is%20Claudia.-nl-I'm%20a%20full-stack%20web%20dev.&fontSize=45&fontColor=FFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&&color=0:5638be,100:ef15bb&height=300&section=header&text=Hi%20everyone!%20My%20name%20is%20Claudia.-nl-I'm%20a%20full-stack%20web%20dev.&fontSize=45&fontColor=FFF&fontAlignY=40)
 
 ###
 
