@@ -1,4 +1,6 @@
-# Hi 👋! My name is Claudia 🇲🇽, and I'm a full-stack web developer, from the U.S. 🇺🇸
+<!-- header from https://github.com/kyechan99/capsule-render -->
+
+![header](https://capsule-render.vercel.app/api?type=speech&&color=0:442A9B,100:E04AC0&height=300&section=header&text=Hi%20everyone!%20My%20name%20is%20Claudia.-nl-I'm%20a%20full-stack%20web%20dev.&fontSize=45&fontColor=FFF&fontAlignY=40)
 
 ###
 
@@ -8,13 +10,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"></a>
-</div>
-
-###
-
-## 💻 Tech Stack:
+## Tech / Tools:
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
@@ -27,6 +23,9 @@
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ###
 
