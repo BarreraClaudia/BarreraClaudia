@@ -1,6 +1,6 @@
 <!-- header from https://github.com/kyechan99/capsule-render -->
 
-![header](https://capsule-render.vercel.app/api?type=speech&&color=0:5638be,100:ef15bb&height=300&section=header&text=Hi%20everyone!%20My%20name%20is%20Claudia.-nl-I'm%20a%20full-stack%20web%20dev.&fontSize=45&fontColor=FFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=speech&&color=0:5638be,100:ef15bb&height=300&section=header&text=Hello!%20My%20name%20is%20Claudia.-nl-I'm%20a%20full-stack%20web%20dev.&fontSize=45&fontColor=FFF&fontAlignY=40)
 
 ###
 
@@ -26,7 +26,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ###
 
